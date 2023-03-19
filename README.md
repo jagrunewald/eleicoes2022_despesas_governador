@@ -15,6 +15,7 @@ Como fonte de dados, foram utilizados tabelas tratadas pela organização [Base 
 <br>
 
 #### Dashboard
+A ferramenta <strong>Microsoft PowerBI</strong> foi utilizada para limpeza e tratamento dos dados, criação de relacionamentos entre tabelas e construção do dashboard.
 O dashboard busca responder os seguintes itens:
 <ul>
   <li> Total de despesas realizadas pelos candidatos ao cargo de governador</li>
