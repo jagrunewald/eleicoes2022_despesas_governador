@@ -25,9 +25,11 @@ O dashboard busca responder os seguintes itens:
 </ul>
 Além disso, é possível filtrar as informações específicas de cada Turno, Estado e Partido.<br><br>
 
-:bar_chart: Link para acesso ao dashboard [aqui](https://app.powerbi.com/view?r=eyJrIjoiZjk0NjBiNTQtOTA4NS00OTM0LTllZDktYTQyMGQxNGRhMTBjIiwidCI6IjA3M2ZmOGM0LWExZDEtNDNiYi1iODNmLWQyNTQ0YmMzODZiMCIsImMiOjh9)<br>
+:bar_chart: Link para acesso ao dashboard [aqui](https://app.powerbi.com/view?r=eyJrIjoiZjk0NjBiNTQtOTA4NS00OTM0LTllZDktYTQyMGQxNGRhMTBjIiwidCI6IjA3M2ZmOGM0LWExZDEtNDNiYi1iODNmLWQyNTQ0YmMzODZiMCIsImMiOjh9)<br><br>
 
+Abaixo é possível visualizar uma prévia do dashboard. <br><br>
 
+![foto](/dashboard.JPG)
 
 
 
