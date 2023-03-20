@@ -19,10 +19,9 @@ A ferramenta <strong>Microsoft PowerBI</strong> foi utilizada para limpeza e tra
 O dashboard busca responder os seguintes itens:
 <ul>
   <li> Total de despesas realizadas pelos candidatos ao cargo de governador</li>
-  <li> Quantidade de candidatos por gênero</li>
   <li> Os cinco partidos com os maiores valores de despesas</li>
   <li> As cinco origens de despesas com os maiores valores</li>
-  <li> Os cinco candidatos com os maiores valores de despesas</li>
+  <li> Os candidatos com os maiores valores de despesas</li>
 </ul>
 Além disso, é possível filtrar as informações específicas de cada Turno, Estado e Partido.<br><br>
 
